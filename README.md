@@ -1,4 +1,3 @@
-Sure, here is the updated table with the "Detailed Activity" column included:
 
 ## Activities Summary
 
@@ -13,4 +12,3 @@ Sure, here is the updated table with the "Detailed Activity" column included:
 | 02/08    | **Autocannon Example with NestJS Interceptor**                                       | Analyze the result for Redis with blocking and non-blocking requests.                                                 | [Autocannon Analysis Report](#) or summary            | **Autocannon Example with NestJS Interceptor**: Analyze the result for Redis with blocking and non-blocking requests.<br>**Output**: [Autocannon Analysis Report](#) or summary of analysis                                                       |
 | 04/08    | **Autocannon Example with Clean-Architecture Interceptor**                           | Analyze the request performance with MongoDB.                                                                         | [Autocannon Analysis Report](#) or summary            | **Autocannon Example with Clean-Architecture Interceptor**: Analyze the request performance with MongoDB.<br>**Output**: [Autocannon Analysis Report](#) or summary of analysis                                                                 |
 
-Is there anything else you'd like to add or modify?
