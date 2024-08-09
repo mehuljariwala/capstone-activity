@@ -1,6 +1,3 @@
-Here's the markdown format with the additional activities included:
-
-```markdown
 ## Activities Summary
 
 | Due Date | Activity Description                                                   | Objective                                                                                                               | Detailed Activity                                                                                                                                                                                                                                 | Status       |
@@ -19,6 +16,3 @@ Here's the markdown format with the additional activities included:
 | 09/08    | **Think of Strong vs. Eventual Consistency for Capstone Project**      | Consider consistency models for your capstone project.                                                                  | **Think of Strong vs. Eventual Consistency for Capstone Project**: Consider and analyze the benefits of strong vs. eventual consistency for the capstone project.<br>**Objective**: Align consistency models with project needs.                                                         | ✅ Completed |
 | 05/08    | **Capstone: Implement Protobuf [Scenarios, Schema]**                   | Develop thought process and define scenarios for implementing Protobuf in capstone project.                             | **Capstone: Implement Protobuf**: Develop thought process and define scenarios for implementing Protobuf in the capstone project.<br>**Activities**: Define a quick Protobuf schema and use cases.                                                | 🔨 TODO      |
 | 07/08    | **gRPC Communication [API Gateway, Auth]**                             | Implement and analyze gRPC communication for API Gateway and authentication modules.                                    | **gRPC Communication**: Implement and analyze gRPC communication for API Gateway and authentication modules.<br>**Activities**: Run relevant gRPC services, monitor communication.<br>**Objective**: Achieve effective communication.             | ✅ Completed |
-```
-
-You can copy and paste this into your markdown editor to update your document.
